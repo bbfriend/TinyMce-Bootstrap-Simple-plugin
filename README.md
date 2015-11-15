@@ -27,7 +27,7 @@ https://wordpress.org/plugins/tiny-bootstrap-elements-light/
      });
 
 4.as the need arises   
-  My Case , Set ``` 'overwriteValidElements': false ```   
+  In my case , Set ``` 'overwriteValidElements': false ```   
   
       tinymce.init({
          .....

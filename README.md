@@ -1,12 +1,16 @@
 # TinyMce-Bootstrap-Simple-plugin
-Bootstrap 　Botton , Label ,Badge ,Alart
+Bootstrap "Botton , Label ,Badge ,Alart".
 
-@version 1.1_a  
+### Base / Original
+https://wordpress.org/plugins/tiny-bootstrap-elements-light/  
+@version 1.1  
+@author Gilles Migliori - gilles.migliori@gmail.com  
+
+
 * ***********************************************************
 ## version 1.1_a
 * Hide button of unused
-* Bug FIX   
-* ***********************************************************   
+* Bug FIX  etc 
 
 ## Install
 
@@ -35,7 +39,3 @@ Bootstrap 　Botton , Label ,Badge ,Alart
        
 
 
-### Base / Original
-https://wordpress.org/plugins/tiny-bootstrap-elements-light/  
-@version 1.1  
-@author Gilles Migliori - gilles.migliori@gmail.com  

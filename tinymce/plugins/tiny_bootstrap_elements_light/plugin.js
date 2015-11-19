@@ -26,6 +26,7 @@
 'use strict';
 
 (function() {
+    tinymce.PluginManager.requireLangPack('tiny_bootstrap_elements_light');
     tinymce.create('tinymce.plugins.tiny_bootstrap_elements_light', {
         init : function(editor, url) { 
 /*** tinymce.PluginManager.requireLangPack('tiny_bootstrap_elements_light');
